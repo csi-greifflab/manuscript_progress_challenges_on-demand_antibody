@@ -8,5 +8,5 @@
 	* High resolution figure files. 
 
 <img
-src="https://github.com/csi-greifflab/manuscript_insilico_antibody_generation/blob/master/figures/figureGA7x.png" width="1000" />
+src="https://github.com/csi-greifflab/manuscript_progress_challenges_on-demand_antibody/blob/master/figures/Figure_1.png" width="1000" />
 
